@@ -161,3 +161,7 @@ I have learned the following topics through this assignment:
 # Assignment with code 17-2-25
 - General Algorithm Best Practices
 - Time and space Complexity Optimization
+
+## Assigment 18-2-25:
+Basic Practices for Generics class
+
